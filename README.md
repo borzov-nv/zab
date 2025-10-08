@@ -66,3 +66,9 @@
 ![](zabbix4.PNG)
 
 4. Приложите в файл README.md текст использованных команд в GitHub
+
+Агент на сервер ставил сразу
+sudo apt install zabbix-server-pgsql zabbix-frontend-php php8.3-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+
+
+На win скачал msi
